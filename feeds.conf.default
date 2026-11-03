@@ -18,4 +18,4 @@ src-git helloworld https://github.com/fw876/helloworld.git
 #src-git small https://github.com/kenzok8/small
 #openwrt软件包(软件较多且新,编译可能会出错)
 #src-git small8 https://github.com/kenzok8/small-package
-src-git openappfilter https://github.com/destan19/OpenAppFilter
+#src-git openappfilter https://github.com/destan19/OpenAppFilter
